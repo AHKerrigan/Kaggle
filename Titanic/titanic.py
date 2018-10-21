@@ -86,3 +86,4 @@ if __name__ == "__main__":
 	#test = new_model.predict(testX)
 
 	new_model.sess.close()
+

@@ -1,1 +1,1 @@
-
+print(rows["Age"])
