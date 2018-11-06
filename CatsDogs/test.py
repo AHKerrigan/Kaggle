@@ -62,5 +62,3 @@ if __name__ == "__main__":
 				metrics=['accuracy'])	
 	
 	model.fit(train_X, train_y, epochs=300, validation_data=(test_X, test_y))
-	
-
